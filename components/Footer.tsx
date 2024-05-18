@@ -11,7 +11,8 @@ const Footer = () => {
           </h2>
 
           <p className="mx-auto mt-4 max-w-sm text-gray-300">
-            students in ens-kouba 3am info 
+            Student in ENS Kouba, enrolled in 3AM Group-06, specializing in
+            Computer Science.
           </p>
           <StudentsDevs />
         </div>

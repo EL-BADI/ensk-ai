@@ -8,6 +8,7 @@ const nextConfig = {
       "lh3.googleusercontent.com",
       "res.cloudinary.com",
       "scontent.falg3-2.fna.fbcdn.net",
+      "lh3.googleusercontent.com",
     ],
   },
 };
